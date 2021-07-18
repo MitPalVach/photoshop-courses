@@ -1,32 +1,34 @@
 html,
 body {
-  padding: 0;
-  margin: 0;
-  color: var(--black);
-  background: #faafaf;
-  font-family: 'Noto Sans KR', sans-serif;
-  font-weight: 400;
-  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: var(--black);
+    background: #faafaf;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 :root {
-  --black: #323942;
-  --gray-light: #b1b1b1;
-  --gray: #525252;
-  --white: white;
-  --primary: #734ffd;
-  --primary-hover: #461cfd;
-  --red: #ff472a;
-  --green: #10935e;
-  --green-light: #73d7ba;
-  --font-family: 'Noto Sans KR', sans-serif;
+    --black: #323942;
+    --gray-light: #b1b1b1;
+    --gray: #525252;
+    --white: white;
+    --primary: #734ffd;
+    --primary-hover: #461cfd;
+    --blue: #B3C0D9;
+    --red: #DE0000;
+    --red-light: #ff472a;
+    --green: #10935e;
+    --green-light: #73d7ba;
+    --font-family: 'Noto Sans KR', sans-serif;
 }
